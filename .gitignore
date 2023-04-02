@@ -2,3 +2,4 @@
 build/**
 
 !**/.gitkeep
+*.db
