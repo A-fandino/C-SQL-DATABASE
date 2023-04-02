@@ -1,2 +1,2 @@
 main:
-	gcc -o main main.c
+	gcc -o build/main main.c
